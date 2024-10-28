@@ -181,6 +181,7 @@ text-align: center;
     #hamburger-icon{
         display:block;
         margin-left:70px;
+        margin-bottom:150px;
     }
     ul{
         margin-left:70px;
@@ -217,11 +218,13 @@ text-align: center;
         text-align:left;
         padding-left:40px;
         font-size:15px;
-        margin-top:170px;
+        /* margin-top:170px; */
+        margin-bottom:200px;
     }
     .urban{
         text-align: center;
         margin-bottom:70px;
+        margin-top:70px;
     }
     @media only screen and (min-width: 600px) {
     .she{
