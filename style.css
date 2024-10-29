@@ -69,6 +69,8 @@ button{
     margin:auto 0;
     display:none;
     cursor:pointer;
+    margin-bottom: 300px;
+    
   }
   #hamburger-icon div{
     width:35px;
@@ -180,8 +182,9 @@ text-align: center;
     }
     #hamburger-icon{
         display:block;
-        margin-left:70px;
-        margin-bottom:150px;
+        margin-right:100px;
+        margin-bottom:300px;
+        margin-top: -90px;
     }
     ul{
         margin-left:70px;
@@ -223,8 +226,8 @@ text-align: center;
     }
     .urban{
         text-align: center;
-        margin-bottom:70px;
-        margin-top:70px;
+        margin-bottom:40px;
+        margin-top:150px;
     }
     @media only screen and (min-width: 600px) {
     .she{
@@ -235,6 +238,8 @@ text-align: center;
 .grid-container{
     float: none;
     display: grid;
-    grid-template-columns: auto ;
+    grid-template-columns: auto  ;
+    column-gap: -500px;
+    width: -40px;
 }
 }
