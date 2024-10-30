@@ -283,3 +283,17 @@ text-align: center;
   /* font-size: 13px; */
 }
 }
+.ree{
+  text-align: left;
+  margin-right: 800px;
+  display: flex;
+  flex: auto auto;
+  float: left;
+  column-gap: 80px;
+}
+.nee{
+  margin-left: 30px;
+   margin-right: -100px;
+   float: right; 
+   column-gap: 70px;
+}
