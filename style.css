@@ -204,6 +204,7 @@ text-align: center;
       @media only screen and (min-width: 600px) {
         .mee { 
            background-image: url('fm.png'); 
+
         }
       } 
       @media only screen and (min-width: 600px) {
@@ -276,24 +277,9 @@ text-align: center;
   display:none ;
 }
 .ree{
-  display: flex;
-  flex: auto auto;
-}
-.see{
-  /* font-size: 13px; */
+  float: left;
 }
 }
 .ree{
-  text-align: left;
-  margin-right: 800px;
-  display: flex;
-  flex: auto auto;
   float: left;
-  column-gap: 80px;
-}
-.nee{
-  margin-left: 30px;
-   margin-right: -100px;
-   float: right; 
-   column-gap: 70px;
 }
